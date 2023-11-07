@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Fetcham and Bookham Repair Cafe</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/web/categories/</link>
+      <atom:link href="/web/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
     <image>
-      <url>/images/icon_hu3014f46539b7a11e588b19106fbca813_19575_512x512_fill_lanczos_center_3.png</url>
+      <url>/web/images/icon_hu3014f46539b7a11e588b19106fbca813_19575_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>/web/categories/</link>
     </image>
     
   </channel>
