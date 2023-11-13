@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/what/</loc>
+  </url><url>
+    <loc>/pre-register/</loc>
+  </url><url>
     <loc>/author/</loc>
   </url><url>
     <loc>/authors/</loc>

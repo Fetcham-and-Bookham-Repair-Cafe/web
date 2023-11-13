@@ -1,4 +1,3 @@
 User-agent: *
 
-# TODO: remove this when the site goes live.
-Disallow: /
+Sitemap: /sitemap.xml
