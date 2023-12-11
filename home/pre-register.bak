@@ -1,0 +1,19 @@
++++
+widget = "blank"
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear in.
+
+title = "Pre-Registration"
+
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
++++
+
+It is now possible to register in advance by following this link:
+### https://calendly.com/ links go here.
+
+This does not give you priority but could save you time on the day.  If you are able to provide details of your repair item such as the model and what the problem is, this may also enable us to help with suggestions for obtaining a spare part etc.
